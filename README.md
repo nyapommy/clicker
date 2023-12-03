@@ -3,4 +3,4 @@ a clicker game where you can buy upgrades using points, prestige and obtain supe
 
 Credits to:
 
-giganlak, darkitxu84
+nyapommy, darkitxu84
